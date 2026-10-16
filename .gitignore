@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.features-gen/
+report/
+result.json
+test-results/
