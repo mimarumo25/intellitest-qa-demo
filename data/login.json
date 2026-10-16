@@ -1,0 +1,5 @@
+{
+  "loginPath": "/Account/Login/?ReturnUrl=%2F",
+  "rootPath": "/",
+  "dashboardHeading": "Dashboard"
+}

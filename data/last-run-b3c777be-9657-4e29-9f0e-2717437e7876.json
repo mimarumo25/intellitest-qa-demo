@@ -1,0 +1,13 @@
+{
+  "caseId": "b3c777be-9657-4e29-9f0e-2717437e7876",
+  "jobId": "644e8aa8-d2b6-47e1-9d85-16a1d882981b",
+  "result": "passed",
+  "report": {
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "durationMs": 5836.615,
+    "attempts": 1
+  },
+  "executedAt": "2026-10-16T20:51:39.976Z"
+}
