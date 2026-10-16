@@ -8,4 +8,8 @@ export class DashboardPage {
     this.page = page;
     this.heading = page.getByRole('heading', {level: 1});
   }
+
+  async reload(): Promise<void> {
+    await this.page.reload();
+  }
 }

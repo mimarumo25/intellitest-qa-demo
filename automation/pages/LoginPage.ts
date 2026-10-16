@@ -22,4 +22,8 @@ export class LoginPage {
     await this.passwordInput.fill(password);
     await this.signInButton.click();
   }
+
+  textInPage(text: string): Locator {
+    return this.page.getByText(text, {exact: true});
+  }
 }
