@@ -1,6 +1,9 @@
 {
   "name": "intellitest-bdd-suite",
   "private": true,
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "test": "bddgen && playwright test",
     "test:headed": "bddgen && playwright test --headed",
